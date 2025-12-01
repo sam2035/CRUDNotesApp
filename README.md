@@ -1,10 +1,10 @@
 # Group members
-leader: Nino Sam Arbas
-Members: Andrei Cena
-         Harvee Dayondon    
-         Shiela Mae Amosco
-         Nelson jr. Alpasain
-         Sarah Lobos
+-leader: Nino Sam Arbas
+-Members: Andrei Cena
+-         Harvee Dayondon    
+-         Shiela Mae Amosco
+-         Nelson jr. Alpasain
+-         Sarah Lobos
 
 # CRUD Notes App
 
