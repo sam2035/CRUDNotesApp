@@ -1,0 +1,3 @@
+// Replace these with your Supabase project URL and anon key
+export const SUPABASE_URL = 'https://ypmqyspmfozjbebuvnco.supabase.co'
+export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlwbXF5c3BtZm96amJlYnV2bmNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ1NzYyNTYsImV4cCI6MjA4MDE1MjI1Nn0.53e5faUU_eNbEw1GM4UoHqZBLG9BZqw85KwLCmcqFng'
