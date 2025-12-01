@@ -14,6 +14,7 @@ A React Native (Expo) mobile application that demonstrates full CRUD functionali
 ### Prerequisites
 
 - Node.js and npm installed
+- git installed
 - Expo CLI: `npm install -g @expo/cli`
 - Supabase account
 
